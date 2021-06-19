@@ -1,2 +1,2 @@
 <h1> Hellooo Saiiii, Welcome to Valaxy Technologies !!! </h1>
-<h2> Deploying on Docker through Ansible using Jenkins with Versioning !!! </h2>
+<h2> Deploying on Tomcat through Ansible using Jenkins !!! </h2>
